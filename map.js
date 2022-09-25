@@ -36,7 +36,7 @@ const months = [
 ];
 
 //API _ KEY..
-const API_KEY = "5381808ef7ebf0696a58e2d56cdc3d0b";
+const API_KEY 
 setInterval(() => {
   const time = new Date();
   const month = time.getMonth();
